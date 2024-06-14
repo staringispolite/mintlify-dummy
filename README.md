@@ -1,3 +1,20 @@
+# Welcome to the Phylax docs
+Here you'll find everything you need to get started, for every Phylax product
+
+## Phylax Node (FOSS)
+
+## Phylax Node (Hosted)
+
+## Reference Docs
+
+## Assertion Library
+
+## Support and bug reports
+
+---------------------------
+TODO: Remove the Mintlify boilerplate, just keeping for a bit while people get comfortable with it
+---------------------------
+
 # Mintlify Starter Kit
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
